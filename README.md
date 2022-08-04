@@ -1,1 +1,1 @@
-# -weihenHong-TypeScript-Study
+# weihenHong-TypeScript-Study Notes
