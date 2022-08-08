@@ -23,3 +23,12 @@ function fn(params:string|number,params2:number | string):void{
 }
 
 fn(2,'')
+// const div:HTMLDivElement = document.querySelector('div')
+// function promise():Promise<number> {
+//     return new Promise<number> ((res,rej)=>{
+//         res(1)
+//     })
+//   }
+// promise().then(res =>{
+    
+// })
