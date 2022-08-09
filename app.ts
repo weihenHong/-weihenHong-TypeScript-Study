@@ -32,3 +32,8 @@ fn(2,'')
 // promise().then(res =>{
     
 // })
+    
+function fnT<T>(params:T):T {
+        return params
+}
+fnT(2)
